@@ -13,7 +13,7 @@ In this Exercise I'm apply all the following concepts:
 
 In this exercise, I'm clone the landing page from the [NPM website](https://www.npmjs.com/).  NPM is a package manager for NodeJs.
 
-You can see the real page [here](https://www.npmjs.com/).  
+You can see the real page [here](https://www.npmjs.com/) and the clone page [NPM Landing Page](https://gabogarciam.github.io/basic-landing-page-npm-website/)
 
 
 ![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_62881782971caae2736b5990926e05d9.png)
