@@ -1,0 +1,229 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.headerMain {
+    background-color: #C93A3C;
+}
+
+.navBar {
+    display: flex;
+    color: rgba(255,255,255,0.8);
+    border-color: rgba(0,0,0,.1);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+.top-left {
+    width: 100%;
+    /* flex-grow: 1; */
+}
+
+.heart {
+    color: #f3f5fb;
+    padding-right: 1rem;
+    margin-right: 1rem;
+    font-size: .875rem;
+    text-decoration: none;
+}
+
+.bar {
+    border-right-style: solid;
+    border-right-width: 1px;
+    margin-right: 1rem;
+    border-color: hsla(0,0%,100%,.3);
+}
+
+.top-links {
+    display: flex;
+    width: 100%;
+}
+
+.top-links li {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.top-links li a {
+    text-decoration: none;
+    color: rgba(255,255,255,0.8);
+}
+
+.pd-10 {
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+
+.HeaderBottom {
+    margin: 0 auto;
+    display: flex;
+    background-color: rgb(36, 90, 122);
+    padding: 1rem;
+    color: white;
+}
+    
+.headerLogonpm {
+    margin-right: 1rem;
+}
+
+.headerLogonpm img {
+    width: 96px;
+}
+
+.loginLinks {
+    display: flex;
+    list-style: none;
+}
+
+.loginLinks li:first-child {
+    padding-top: 0.5rem;
+}
+
+.loginLinks li a {
+    text-decoration: none;
+    color: white;
+}
+
+.loginLinks img {
+    padding-left: 0.2rem;
+    width: 2rem;
+}
+
+.headerSearch {
+    flex: 1 1 auto;
+}
+
+.headerSearch input {
+    background: rgb(31, 82, 111);
+    border: 1px;
+    width: 100%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    outline: none;
+    padding-left: 1rem;
+    font-size: 100%;
+}
+
+.baThingsMain {
+    /* background-color: rgb(36, 90, 122); */
+    background-color: #1D4E69;
+    background-image: url('../images/city-scape.svg');
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.bathings {
+    font-weight: 200;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.w-50 h1{
+    padding-bottom: 2rem;
+    font-size: 3rem;
+}
+
+.w-50 span {
+    font-size: 1.25rem;
+    line-height: 1.5;
+}
+
+.btn {
+    /* padding-top: 2rem; */
+    background-color: #f09233!important;
+    border-radius: 20px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 7px 26px 8px 26px;
+    text-decoration: none;
+    text-align: center;
+    outline: none;
+    display: inline-block;
+}
+
+.collaboration {
+    background-color: rgb(39, 53, 71);
+    color: white;
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+}
+
+.collaborationMain .btn {
+    background-color: #cb3837!important;
+}
+
+.pdb1 {
+    padding-bottom: 1rem;
+}
+
+.pdb2 {
+    padding-bottom: 2rem;
+}
+
+.pdb4 {
+    padding-bottom: 4rem;
+}
+
+.pdt2 {
+    padding-top: 2rem;
+}
+
+.pdb2 p {
+    padding-top: 1rem;
+}
+
+.pdb2 p a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.whatisnpm {
+    background-color: #206F9C;
+    background-image: url('../images/forklift.svg');
+    background-size: cover;
+    color: white;
+}
+
+.whatisnpmMain {
+    display: inline-block;
+    width: 50%;
+}
+
+.whatisnpmMain .btn {
+    background-color: rgb(49, 68, 88)!important;
+}
+
+.wcym {
+    background-color: white;
+    text-align: center;
+}
+
+.wcym h2 {
+    font-size: 2.25rem;
+    font-weight: 200;
+}
+
+.wcym p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.47;
+}
+
+.find .discover .build {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.find p a {
+    color: #cb3837;
+    text-decoration: none;
+    font-weight: 600;
+}
