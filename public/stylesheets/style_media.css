@@ -1,0 +1,216 @@
+@media only screen and (min-width: 5rem) and (max-width: 25rem) {
+    .navBar {
+        padding: 0.5rem;
+    }
+
+    .top-left {
+        display: none;
+    }
+
+    .top-links {
+        display: block;
+        align-items: center;
+        display: contents;
+        font-size: 10px;
+        width: 100%;
+    }
+
+    .HeaderBottom {
+        flex-wrap: wrap;
+        margin: 0 auto;
+    }
+
+    .headerLogonpm {
+        padding-left: 0.5rem;
+    }
+
+    .headerLogonpm img {
+        width: 80px;
+    }
+
+    .headerSearch {
+        order: 2;
+        padding: 0rem 1rem;
+    }
+
+    .loginUser{
+        padding-bottom: 1rem;
+    }
+
+    .loginLinks {
+        padding-left: 5rem;
+    }
+
+    .w-50.f {
+        display: table-cell;
+        align-items: center;
+        padding: 20rem 2rem 1rem;
+    }
+
+    .w-50 h1 {
+        margin-top: 72px;
+    }
+
+    .collaboration {
+        display: flex;
+        flex-wrap: wrap-reverse;
+    }
+
+    .collaborationImage {
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .collaborationImage img {
+        height: 10rem;
+    }
+
+    .pdb2 {
+        padding-bottom: 2rem;
+    }
+
+    .pdl2 {
+        padding-left: 2rem;
+    }
+
+    .containerw50 {
+        padding: 0;
+    }
+
+    .whatisnpmMain {
+        padding: 8rem 2rem 2rem;
+    }
+
+    .wcym {
+        padding: 2rem;
+    }
+
+    .wcymHeaderMain {
+        padding-top: 4rem;
+    }
+
+    .find {
+        padding-bottom: 2rem;
+    }
+
+    .discover {
+        padding-bottom: 2rem;
+    }
+
+    .build {
+        padding-bottom: 2rem;
+    }
+}
+
+@media screen and (min-width: 25.0625rem) and (max-width: 67rem) {
+    .navBar {
+        padding: 0.5rem;
+    }
+
+    .top-left {
+        display: none;
+    }
+
+    .top-links {
+        display: block;
+        align-items: center;
+        display: contents;
+        font-size: 16px;
+        width: 100%;
+    }
+
+    .w-50 {
+        display: table-cell;
+        height: 50vh;
+        padding: 30rem 4rem 1rem;
+    }
+
+    .w-50 h1 {
+        padding-top: 2rem;
+        margin-top: 72px;
+    }
+
+    .collaborationImage img {
+    height: 10rem;
+    }
+
+    .collaborationMain {
+        padding-left: 2rem;
+    }
+
+    .pdl2 {
+        padding-left: 1rem;
+    }
+
+    .whatisnpmMain {
+        width: 40%;
+        padding: 10rem 2rem 2rem;
+    }
+
+    .wcym {
+        padding: 4rem;
+    }
+
+    /* .wcymBuildingBlocks {
+        display: flex;
+    } */
+
+    .wcymHeaderMain {
+        padding-top: 4rem;
+    }
+
+    .find {
+        padding-bottom: 2rem;
+    }
+
+    .discover {
+        padding-bottom: 2rem;
+    }
+
+    .build {
+        padding-bottom: 2rem;
+    }
+}
+
+@media screen and (min-width: 67.0625rem) {
+    .navBar {
+        padding: 1rem;
+    }
+
+    .w-50.f {
+        height: 50vh;
+        padding: 11rem 4rem 4rem;
+    }
+
+    .collaboration {
+        padding-left: 4rem;
+        padding-right: 4rem;
+    }
+
+    .collaborationImage img {
+        height: 20rem;
+        padding-left: 2rem;
+    }
+
+    .collaborationMain {
+        padding-right: 2rem;
+        padding-left: 3rem;
+    }
+
+    .pdl2 {
+        padding-left: 1rem;
+    }
+
+    .whatisnpmMain {
+        width: 30%;
+        padding: 5rem 5rem 12rem;
+    }
+
+    .wcym {
+        padding: 4rem;
+    }
+
+    .wcymBuildingBlocks {
+        display: flex;
+    }
+}
